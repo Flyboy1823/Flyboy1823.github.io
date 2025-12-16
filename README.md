@@ -1,6 +1,8 @@
 # Flyboy1823.github.io
 All GNC Projects I worked on:
 
-Navigation Project - https://github.com/Flyboy1823/Satellite-Navigation-from-Multiple-Measurement-Methods
+Project 1: TLE Unmodeld Pertubations Project-  https://github.com/Flyboy1823/TLE-ME-Thesis-Project
 
-ADCS Project - https://github.com/Flyboy1823/Attitude-Control-With-Restrictive-Thrusters
+Project 2: Deep Space Navigation - https://github.com/Flyboy1823/Satellite-Navigation-from-Multiple-Measurement-Methods
+
+Project 3: Attitude Control for Restricitve Thrusters - https://github.com/Flyboy1823/Attitude-Control-With-Restrictive-Thrusters
