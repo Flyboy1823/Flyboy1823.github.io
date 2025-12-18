@@ -1,5 +1,5 @@
 # Flyboy1823.github.io
-All GNC Projects I worked on:
+A few GNC Projects I worked on:
 
 Project 1: [TLE Unmodeld Pertubations Project] (https://github.com/Flyboy1823/TLE-ME-Thesis-Project)
 
