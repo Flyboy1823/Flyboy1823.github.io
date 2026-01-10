@@ -10,3 +10,5 @@ Project 3: [Attitude Control for Restricitve Thrusters](https://github.com/Flybo
 Project 4: [Student Designed Lunar Orbital CubeSat - JERICCO](https://github.com/Flyboy1823/JERICCO/tree/main)
 
 Project 5: [Deep Space Navagation Tool Concept of Operations](https://github.com/Flyboy1823/GEO-VBLI)
+
+Project 6: [GNC System Design Concept of Operations for Thrust Vector Controlled Launcher](https://github.com/Flyboy1823/TVC-GNC-System-Design)
