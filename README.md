@@ -1,6 +1,4 @@
-# Flyboy1823.github.io
-
-A few GNC projects I’ve worked on:
+# A few GNC projects I’ve worked on:
 
 ---
 
