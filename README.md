@@ -23,9 +23,9 @@ A few GNC projects I’ve worked on:
 *This project assess methods of determining satellite position and velocity (orbit determination) for cis-lunar orbits.  The project focuses on two estimation methods, namely batch estimation and sequential filtering, and discusses the reliability of propagation with uncertainty.*
 
 <p align="center">
-  <img src="images/project2_piciture1.png" width="20%">
-  <img src="images/project2_piciture2.png" width="30%">
-  <img src="images/project2_piciture3.png" width="50%">
+  <img src="images/project2_piciture1.png" width="45%">
+  <img src="images/project2_piciture2.png" width="45%">
+  <img src="images/project2_piciture3.png" width="90%">
 </p>
 
 ---
@@ -38,11 +38,11 @@ A few GNC projects I’ve worked on:
 <table align="center">
   <tr>
     <td width="60%">
-      <img src="images/project3_piciture1.png width="100%"><br>
-      <img src="images/project3_piciture3.png width="100%">
+      <img src="images/project3_piciture1.png" width="100%"><br>
+      <img src="images/project3_piciture3.png" width="100%">
     </td>
     <td width="40%" align="center">
-      <img src="images/project3_piciture2.png width="90%">
+      <img src="images/project3_piciture2.png" width="90%">
     </td>
   </tr>
 </table>
