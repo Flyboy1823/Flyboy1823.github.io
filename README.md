@@ -59,8 +59,8 @@ and determined necessary vectors over time for orbital corrections, sun pointing
 
 <p align="center">
   <img src="images/project4_piciture1.png" width="33%">
-  <img src="images/project4_piciture2.png" width="33%">
-  <img src="images/project4_piciture3.png" width="33%">
+  <img src="images/project4_picture2.png" width="33%">
+  <img src="images/project4_picture3.png" width="33%">
 </p>
 
 ---
