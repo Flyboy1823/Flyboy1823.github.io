@@ -13,9 +13,9 @@ changes to a satellite’s orbit over time could be plotted and observed, which 
 The idea is to create an algorithm that would flag potential unmodelled changes of satellites’ orbits over time, so that future research could be progressed as well as technologies that make use of this information.*
 
 <p align="center">
-  <img src="images/project1_picture1.png" width="33%">
-  <img src="images/project1_picture2.png" width="33%">
-  <img src="images/project1_picture3.png" width="33%">
+  <img src="images/project1_piciture1.png" width="33%">
+  <img src="images/project1_piciture2.png" width="33%">
+  <img src="images/project1_piciture3.png" width="33%">
 </p>
 
 ---
@@ -27,9 +27,9 @@ The idea is to create an algorithm that would flag potential unmodelled changes 
 The project focuses on two estimation methods, namely batch estimation and sequential filtering, and discusses the reliability of propagation with uncertainty.*
 
 <p align="center">
-  <img src="images/project2_picture1.png" width="33%">
-  <img src="images/project2_picture2.png" width="33%">
-  <img src="images/project2_picture3.png" width="33%">
+  <img src="images/project2_piciture1.png" width="33%">
+  <img src="images/project2_piciture2.png" width="33%">
+  <img src="images/project2_piciture3.png" width="33%">
 </p>
 
 ---
@@ -43,9 +43,9 @@ This controller includes SMC and Bang-Bang with deadband control for angular vel
 Monte Carlo simulations were used to determine the effects of perturbations on the attitude of the spacecraft.*
 
 <p align="center">
-  <img src="images/project3_picture1.png" width="33%">
-  <img src="images/project3_picture2.png" width="33%">
-  <img src="images/project3_picture3.png" width="33%">
+  <img src="images/project3_piciture1.png" width="33%">
+  <img src="images/project3_piciture2.png" width="33%">
+  <img src="images/project3_piciture3.png" width="33%">
 </p>
 
 ---
@@ -58,9 +58,9 @@ As Missions and Orbit team lead, I designed the orbital simulation apparatus usi
 and determined necessary vectors over time for orbital corrections, sun pointing and Earth-bound communications.*
 
 <p align="center">
-  <img src="images/project4_picture1.png" width="33%">
-  <img src="images/project4_picture2.png" width="33%">
-  <img src="images/project4_picture3.png" width="33%">
+  <img src="images/project4_piciture1.png" width="33%">
+  <img src="images/project4_piciture2.png" width="33%">
+  <img src="images/project4_piciture3.png" width="33%">
 </p>
 
 ---
@@ -73,7 +73,7 @@ The idea is to understand the dynamics involved, the methodology of the state ma
 A full Concept of Operations was written to describe in detail the reasoning behind each block.*
 
 <p align="center">
-  <img src="images/project5_picture1.png" width="100%">
+  <img src="images/project5_piciture1.png" width="100%">
 </p>
 
 ---
