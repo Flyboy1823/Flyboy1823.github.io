@@ -43,9 +43,9 @@ This controller includes SMC and Bang-Bang with deadband control for angular vel
 Monte Carlo simulations were used to determine the effects of perturbations on the attitude of the spacecraft.*
 
 <p align="center">
-  <img src="images/project3_piciture1.png" width="33%">
-  <img src="images/project3_piciture2.png" width="33%">
-  <img src="images/project3_piciture3.png" width="33%">
+  <img src="images/project3_piciture1.png" width="40%">
+  <img src="images/project3_piciture2.png" width="20%">
+  <img src="images/project3_piciture3.png" width="40%">
 </p>
 
 ---
