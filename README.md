@@ -42,11 +42,17 @@ With thrusters that have min and max on and off times, a robust control method m
 This controller includes SMC and Bang-Bang with deadband control for angular velocity and attitude as well as PFPW Modulations.  
 Monte Carlo simulations were used to determine the effects of perturbations on the attitude of the spacecraft.*
 
-<p align="center">
-  <img src="images/project3_piciture1.png" width="35%">
-  <img src="images/project3_piciture2.png" width="20%">
-  <img src="images/project3_piciture3.png" width="35%">
-</p>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <img src="images/project3_piciture1.png width="100%"><br>
+      <img src="images/project3_piciture3.png width="100%">
+    </td>
+    <td width="40%" align="center">
+      <img src="images/project3_piciture2.png width="90%">
+    </td>
+  </tr>
+</table>
 
 ---
 
